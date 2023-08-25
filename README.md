@@ -25,5 +25,11 @@
 
 5. Stack usado
 
-- MongoDB
-- Nest
+   - MongoDB
+   - Nest
+
+6. Reconstruir la base de datos con la semilla
+
+   ```bash
+   http://localhost:3000/api/v2/seed
+   ```
